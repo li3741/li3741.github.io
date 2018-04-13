@@ -1,0 +1,10 @@
+# Created by Jekyll Writer
+title: Your awesome title
+email: your-email@domain.com
+description: Write an awesome description for your new site here
+baseurl: /charp
+url: ''
+permalink: '/:year/:month/:day/:title/'
+twitter_username: jekyllwriter
+github_username: jekyllwriter
+markdown: kramdown
